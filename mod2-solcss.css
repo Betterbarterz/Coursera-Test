@@ -10,12 +10,12 @@
 @media (min-width: 768px) and (max-width: 991px){
  		#sect1 {width: 45%}
  		#sect2 {width: 45%}
- 		#sect3 {width: 95%}
+ 		#sect3 {width: 92%}
  	}  
 @media (max-width: 767px){
-    	#sect1 {width: 94%}
-    	#sect2 {width: 94%}
-    	#sect3 {width: 94%}
+    	#sect1 {width: 90%}
+    	#sect2 {width: 90%}
+    	#sect3 {width: 90%}
     }
 
 
